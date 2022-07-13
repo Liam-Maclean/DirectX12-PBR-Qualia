@@ -1,0 +1,11 @@
+Model Information:
+* title:	Darius
+* source:	https://sketchfab.com/3d-models/darius-95233e2a8c0e4fe891301b9d673dadc3
+* author:	kraken (https://sketchfab.com/kraken)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Darius" (https://sketchfab.com/3d-models/darius-95233e2a8c0e4fe891301b9d673dadc3) by kraken (https://sketchfab.com/kraken) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

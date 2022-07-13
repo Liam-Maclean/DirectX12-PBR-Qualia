@@ -1,0 +1,11 @@
+Model Information:
+* title:	Starry Night Diorama Tilt Brush
+* source:	https://sketchfab.com/3d-models/starry-night-diorama-tilt-brush-3e0b5185d1f8435b993e1bad2f82928e
+* author:	george peaslee (https://sketchfab.com/georgepeaslee)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Starry Night Diorama Tilt Brush" (https://sketchfab.com/3d-models/starry-night-diorama-tilt-brush-3e0b5185d1f8435b993e1bad2f82928e) by george peaslee (https://sketchfab.com/georgepeaslee) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

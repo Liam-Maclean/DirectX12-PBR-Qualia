@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\liamm\Downloads\DirectX12-Engine-DeferredRendering\DirectX12-Engine-DeferredRendering\DX12Project\x64\Debug\DX12Project.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\liamm\Downloads\DirectX12-Engine-DeferredRendering\DirectX12-Engine-DeferredRendering\DX12Project\x64\Debug\DeferredCompositionPixel.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\liamm\Downloads\DirectX12-Engine-DeferredRendering\DirectX12-Engine-DeferredRendering\DX12Project\x64\Debug\QuadVert.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\liamm\Downloads\DirectX12-Engine-DeferredRendering\DirectX12-Engine-DeferredRendering\DX12Project\x64\Debug\DeferredForwardPixel.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\liamm\Downloads\DirectX12-Engine-DeferredRendering\DirectX12-Engine-DeferredRendering\DX12Project\x64\Debug\DeferredForwardVert.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\liamm\Downloads\DirectX12-Engine-DeferredRendering\DirectX12-Engine-DeferredRendering\DX12Project\x64\Debug\DomainShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\liamm\Downloads\DirectX12-Engine-DeferredRendering\DirectX12-Engine-DeferredRendering\DX12Project\x64\Debug\FXAAPixel.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\liamm\Downloads\DirectX12-Engine-DeferredRendering\DirectX12-Engine-DeferredRendering\DX12Project\x64\Debug\GeometryShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\liamm\Downloads\DirectX12-Engine-DeferredRendering\DirectX12-Engine-DeferredRendering\DX12Project\x64\Debug\HullShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\liamm\Downloads\DirectX12-Engine-DeferredRendering\DirectX12-Engine-DeferredRendering\DX12Project\x64\Debug\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\liamm\Downloads\DirectX12-Engine-DeferredRendering\DirectX12-Engine-DeferredRendering\DX12Project\x64\Debug\VertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

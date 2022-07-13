@@ -1,0 +1,11 @@
+Model Information:
+* title:	AMONG DRIP
+* source:	https://sketchfab.com/3d-models/among-drip-04f3d7452bac4799bcab779e21d60f16
+* author:	RTFKT Studios (https://sketchfab.com/rtfkt)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "AMONG DRIP" (https://sketchfab.com/3d-models/among-drip-04f3d7452bac4799bcab779e21d60f16) by RTFKT Studios (https://sketchfab.com/rtfkt) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

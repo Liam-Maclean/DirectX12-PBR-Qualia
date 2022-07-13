@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\DirectX12">
+      <UniqueIdentifier>{fa0bc181-9d68-4b4d-bfc7-f074bb0c9121}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DirectX12">
+      <UniqueIdentifier>{557d4dd8-8215-4069-ad60-20ecb8743388}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System">
+      <UniqueIdentifier>{18f6a507-d06f-4ee3-af23-466de200f785}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\System">
+      <UniqueIdentifier>{4616c2b9-d78f-40ce-a14f-cd7952f77a33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DirectX12\RenderingPipelines">
+      <UniqueIdentifier>{e4820940-e5c2-4a99-969e-0ccf3415510f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DirectX12\RenderingPipelines">
+      <UniqueIdentifier>{55b4011d-3a59-4602-93ab-a2fde23182bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DirectX12\DirectXWrappers">
+      <UniqueIdentifier>{17db9396-c363-4227-bcc5-7c9e6bec46b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DirectX12\DirectXWrappers">
+      <UniqueIdentifier>{dd9a5b4c-b044-46f0-bd61-345a84dc6adc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ENGUtilityHeaders">
+      <UniqueIdentifier>{9ae9877b-586e-4cc9-bb8e-30621281af9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ENGUtilityHeaders">
+      <UniqueIdentifier>{08c45a28-8892-45f1-8e98-94f0f527243c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ImGui">
+      <UniqueIdentifier>{72911e40-10fd-4a41-aa73-7fb10a6b1723}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Renderer">
+      <UniqueIdentifier>{18306c44-dbe3-43ac-8c29-8e325f428703}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\DeferredShaders">
+      <UniqueIdentifier>{da0be001-b931-44c9-9cd7-bdd0a1eea3bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\PostProcessShaders">
+      <UniqueIdentifier>{319e5d13-ee71-4cbc-9c20-da7d139b4c9d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="InputClass.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemClass.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsClass.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="DeferredRenderer.cpp">
+      <Filter>Source Files\DirectX12\RenderingPipelines</Filter>
+    </ClCompile>
+    <ClCompile Include="DXFrameHeapManager.cpp">
+      <Filter>Source Files\DirectX12\DirectXWrappers</Filter>
+    </ClCompile>
+    <ClCompile Include="ENGTextureLoader.cpp">
+      <Filter>Source Files\ENGUtilityHeaders</Filter>
+    </ClCompile>
+    <ClCompile Include="ENGBufferUtility.cpp">
+      <Filter>Source Files\ENGUtilityHeaders</Filter>
+    </ClCompile>
+    <ClCompile Include="ENGModelLoader.cpp">
+      <Filter>Source Files\ENGUtilityHeaders</Filter>
+    </ClCompile>
+    <ClCompile Include="ENGShaderLoader.cpp">
+      <Filter>Source Files\ENGUtilityHeaders</Filter>
+    </ClCompile>
+    <ClCompile Include="ENGDXResourceManager.cpp">
+      <Filter>Source Files\ENGUtilityHeaders</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files\DirectX12\DirectXWrappers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Libs\imgui-master\imgui.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Libs\imgui-master\imgui_demo.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Libs\imgui-master\imgui_draw.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Libs\imgui-master\imgui_tables.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Libs\imgui-master\imgui_widgets.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Libs\imgui-master\backends\imgui_impl_dx12.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Libs\imgui-master\backends\imgui_impl_win32.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="cvars.cpp">
+      <Filter>Source Files\ENGUtilityHeaders</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGuiRenderer.cpp">
+      <Filter>Source Files\DirectX12\RenderingPipelines</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshSubdivideRenderer.cpp">
+      <Filter>Source Files\DirectX12\RenderingPipelines</Filter>
+    </ClCompile>
+    <ClCompile Include="DXRenderContext.cpp">
+      <Filter>Source Files\DirectX12\DirectXWrappers</Filter>
+    </ClCompile>
+    <ClCompile Include="DXSwapchain.cpp">
+      <Filter>Source Files\DirectX12\DirectXWrappers</Filter>
+    </ClCompile>
+    <ClCompile Include="ComputeRenderer.cpp">
+      <Filter>Source Files\DirectX12\RenderingPipelines</Filter>
+    </ClCompile>
+    <ClCompile Include="DXRenderer.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="DXBuffer.cpp">
+      <Filter>Source Files\DirectX12\DirectXWrappers</Filter>
+    </ClCompile>
+    <ClCompile Include="DXPipeline.cpp">
+      <Filter>Source Files\DirectX12\DirectXWrappers</Filter>
+    </ClCompile>
+    <ClCompile Include="DXShaderLayout.cpp">
+      <Filter>Source Files\DirectX12\DirectXWrappers</Filter>
+    </ClCompile>
+    <ClCompile Include="DXFence.cpp">
+      <Filter>Source Files\DirectX12\DirectXWrappers</Filter>
+    </ClCompile>
+    <ClCompile Include="ENGScreenQuad.cpp">
+      <Filter>Source Files\ENGUtilityHeaders</Filter>
+    </ClCompile>
+    <ClCompile Include="DXModel.cpp">
+      <Filter>Source Files\DirectX12\DirectXWrappers</Filter>
+    </ClCompile>
+    <ClCompile Include="FXAARenderer.cpp">
+      <Filter>Source Files\DirectX12\RenderingPipelines</Filter>
+    </ClCompile>
+    <ClCompile Include="DDSTextureLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DXTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SystemClass.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="InputClass.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicsClass.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DeferredRenderer.h">
+      <Filter>Header Files\DirectX12\RenderingPipelines</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectXWrappers.h">
+      <Filter>Header Files\DirectX12\DirectXWrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGBufferUtility.h">
+      <Filter>Header Files\ENGUtilityHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGDXResourceManager.h">
+      <Filter>Header Files\ENGUtilityHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGModelLoader.h">
+      <Filter>Header Files\ENGUtilityHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGShaderLoader.h">
+      <Filter>Header Files\ENGUtilityHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGTextureLoader.h">
+      <Filter>Header Files\ENGUtilityHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="DXFrameHeapManager.h">
+      <Filter>Header Files\DirectX12\DirectXWrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files\DirectX12\DirectXWrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Libs\imgui-master\imconfig.h">
+      <Filter>Source Files\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Libs\imgui-master\imgui.h">
+      <Filter>Source Files\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Libs\imgui-master\imgui_internal.h">
+      <Filter>Source Files\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Libs\imgui-master\imstb_rectpack.h">
+      <Filter>Source Files\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Libs\imgui-master\imstb_textedit.h">
+      <Filter>Source Files\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Libs\imgui-master\imstb_truetype.h">
+      <Filter>Source Files\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Libs\imgui-master\backends\imgui_impl_dx12.h">
+      <Filter>Source Files\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Libs\imgui-master\backends\imgui_impl_win32.h">
+      <Filter>Source Files\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="cvars.h">
+      <Filter>Header Files\ENGUtilityHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="CVarSettings.h">
+      <Filter>Header Files\ENGUtilityHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="string_utils.h">
+      <Filter>Header Files\ENGUtilityHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGuiRenderer.h">
+      <Filter>Header Files\DirectX12\RenderingPipelines</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshSubdivideRenderer.h">
+      <Filter>Header Files\DirectX12\RenderingPipelines</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGRendererContext.h">
+      <Filter>Header Files\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGSwapchain.h">
+      <Filter>Header Files\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="ComputeRenderer.h">
+      <Filter>Header Files\DirectX12\RenderingPipelines</Filter>
+    </ClInclude>
+    <ClInclude Include="DXRenderer.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="d3dx12.h">
+      <Filter>Header Files\DirectX12\DirectXWrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGBuffer.h">
+      <Filter>Header Files\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="DXStructs.h">
+      <Filter>Header Files\DirectX12\DirectXWrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGFence.h">
+      <Filter>Header Files\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGInputLayouts.h">
+      <Filter>Header Files\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGPipeline.h">
+      <Filter>Header Files\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGShaderLayout.h">
+      <Filter>Header Files\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGScreenQuad.h">
+      <Filter>Header Files\ENGUtilityHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGGraphicsStructs.h">
+      <Filter>Header Files\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGBase.h">
+      <Filter>Header Files\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGModel.h">
+      <Filter>Header Files\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="FXAARenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DDSTextureLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ENGTexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="VertexShader.hlsl">
+      <Filter>Resource Files</Filter>
+    </FxCompile>
+    <FxCompile Include="PixelShader.hlsl">
+      <Filter>Resource Files</Filter>
+    </FxCompile>
+    <FxCompile Include="GeometryShader.hlsl">
+      <Filter>Resource Files</Filter>
+    </FxCompile>
+    <FxCompile Include="HullShader.hlsl">
+      <Filter>Resource Files</Filter>
+    </FxCompile>
+    <FxCompile Include="DomainShader.hlsl">
+      <Filter>Resource Files</Filter>
+    </FxCompile>
+    <FxCompile Include="DeferredForwardVert.hlsl">
+      <Filter>Resource Files\DeferredShaders</Filter>
+    </FxCompile>
+    <FxCompile Include="DeferredForwardPixel.hlsl">
+      <Filter>Resource Files\DeferredShaders</Filter>
+    </FxCompile>
+    <FxCompile Include="DeferredCompositionPixel.hlsl">
+      <Filter>Resource Files\DeferredShaders</Filter>
+    </FxCompile>
+    <FxCompile Include="QuadVert.hlsl">
+      <Filter>Resource Files\DeferredShaders</Filter>
+    </FxCompile>
+    <FxCompile Include="FXAAPixel.hlsl">
+      <Filter>Resource Files\PostProcessShaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DX12Project.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LightUtil.hlsli">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Halo-Infinite-Master-Chief-rigged-walk.
+* source:	https://sketchfab.com/3d-models/halo-infinite-master-chief-rigged-walk-2ab775a1c67141d9a03bb5c92c115b36
+* author:	bensimulator2 (https://sketchfab.com/bensimulator1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Halo-Infinite-Master-Chief-rigged-walk." (https://sketchfab.com/3d-models/halo-infinite-master-chief-rigged-walk-2ab775a1c67141d9a03bb5c92c115b36) by bensimulator2 (https://sketchfab.com/bensimulator1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

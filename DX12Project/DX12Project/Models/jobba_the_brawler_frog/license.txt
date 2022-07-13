@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jobba the Brawler Frog
+* source:	https://sketchfab.com/3d-models/jobba-the-brawler-frog-4584e6dfbfe5405a9a3e52193a06a4c3
+* author:	StijnBeerts (https://sketchfab.com/StijnBeerts)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jobba the Brawler Frog" (https://sketchfab.com/3d-models/jobba-the-brawler-frog-4584e6dfbfe5405a9a3e52193a06a4c3) by StijnBeerts (https://sketchfab.com/StijnBeerts) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

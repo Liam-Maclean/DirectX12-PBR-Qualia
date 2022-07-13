@@ -1,0 +1,11 @@
+Model Information:
+* title:	Valley of Trials - World of Warcraft - test 1
+* source:	https://sketchfab.com/3d-models/valley-of-trials-world-of-warcraft-test-1-a614a99997c145e3869df80111a5187c
+* author:	riccardogiorato (https://sketchfab.com/riccardogiorato)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Valley of Trials - World of Warcraft - test 1" (https://sketchfab.com/3d-models/valley-of-trials-world-of-warcraft-test-1-a614a99997c145e3869df80111a5187c) by riccardogiorato (https://sketchfab.com/riccardogiorato) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Halo Mk V Model
+* source:	https://sketchfab.com/3d-models/halo-mk-v-model-ff8a4e4f9d1f4fdeb3a1d887f6f70dae
+* author:	Pep (https://sketchfab.com/Pep0398)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Halo Mk V Model" (https://sketchfab.com/3d-models/halo-mk-v-model-ff8a4e4f9d1f4fdeb3a1d887f6f70dae) by Pep (https://sketchfab.com/Pep0398) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	new_cortana_halo4_og
+* source:	https://sketchfab.com/3d-models/new-cortana-halo4-og-0a852dc2725a4082853453dd8b5d0518
+* author:	bingchillin (https://sketchfab.com/bingchillin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "new_cortana_halo4_og" (https://sketchfab.com/3d-models/new-cortana-halo4-og-0a852dc2725a4082853453dd8b5d0518) by bingchillin (https://sketchfab.com/bingchillin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+*.ipch
+*.suo
+*.log
+*.obj
+*.pch
+*.res
+*.sdf
+*.tlog
+*.lib
+*.manifest
+*.pdb
